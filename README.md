@@ -1,6 +1,12 @@
-# malbolge-syntax — Gramatica TextMate para Malbolge
+# malbolge-syntax v2.0 — Gramática TextMate para Malbolge
 
-Gramatica TextMate con licencia MIT para [Malbolge](https://esolangs.org/wiki/Malbolge), publicada para `github-linguist/linguist`.
+[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/DannyBaanks/malbolge-syntax)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Scope](https://img.shields.io/badge/scope-source.malbolge-blueviolet.svg)]()
+
+Gramática TextMate con licencia MIT para [Malbolge](https://esolangs.org/wiki/Malbolge), publicada para `github-linguist/linguist` y editores modernos.
+
+Parte de la **Suite Lingüística y de Herramientas v2.0** del ecosistema Malbolge de ISyCo.
 
 - **Alcance**: `source.malbolge`
 - **Archivo**: `syntaxes/Malbolge.tmLanguage.json`
